@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # VS Code doesn't correctly re-encode all characters, including emoji. This script does.
 # To correctly re-encode Chris Bail's files:
 # reencode.py --in-place utf8 macroman <file(s)>
